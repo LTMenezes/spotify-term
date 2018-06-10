@@ -1,3 +1,4 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/LTMenezes/spotify-term)](https://goreportcard.com/badge/github.com/LTMenezes/spotify-term)
 # Spotify Term
 Spotify Term allows you to control all your spotify devices on the terminal.
 
