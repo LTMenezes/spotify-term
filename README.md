@@ -3,7 +3,7 @@
 
 Spotify Term allows you to control all your spotify devices on the terminal.
 
-[![asciicast](https://asciinema.org/a/GuXDzhHOXUzTTY5VNBH7tr0Kv.png)](https://asciinema.org/a/GuXDzhHOXUzTTY5VNBH7tr0Kv)
+[![asciicast](https://asciinema.org/a/186526.png)](https://asciinema.org/a/186526)
 
 # Installation
 ```bash
