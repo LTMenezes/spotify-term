@@ -132,7 +132,7 @@ func getConfig() (config SpotifyTermConfig, err error) {
 		fmt.Println("Welcome to spotify term, we need to perform some first time setup.")
 		fmt.Println("In order to avoid using a third-party server and host all the code on your computer you need to create a spotify application in the link:")
 		fmt.Println("https://developer.spotify.com")
-		fmt.Println("After creating it enter the following settings with your spotify aplication information:")
+		fmt.Println("After creating it enter the following settings with your spotify application information:")
 
 		fmt.Print("Enter your client ID:")
 		text, err := reader.ReadString('\n')
@@ -569,7 +569,7 @@ func main() {
 	case "login":
 		_, err := getAPIToken()
 		if err == nil {
-			fmt.Println("Sucessfully logged in!")
+			fmt.Println("Successfully logged in!")
 		}
 		return
 

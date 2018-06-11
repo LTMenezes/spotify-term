@@ -1,6 +1,6 @@
 # Spotify Term
 [![Travis Ci Build](https://api.travis-ci.org/LTMenezes/spotify-term.svg?branch=master)](https://travis-ci.org/LTMenezes/spotify-term)
-[![Go Report Card](https://goreportcard.com/badge/github.com/LTMenezes/spotify-term)](https://goreportcard.com/badge/github.com/LTMenezes/spotify-term)
+[![Go Report Card](https://goreportcard.com/badge/github.com/LTMenezes/spotify-term)](https://goreportcard.com/report/github.com/LTMenezes/spotify-term)
 
 Spotify Term allows you to control all your spotify devices on the terminal.
 
